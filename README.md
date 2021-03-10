@@ -1,1 +1,1 @@
-This is my AWS SAA Certification
+AWS Certified Solutions Architect Certification issued on 10/2020
